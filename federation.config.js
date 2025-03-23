@@ -5,7 +5,7 @@ module.exports = withNativeFederation({
   name: 'angularnossr',
 
   exposes: {
-    './Component': './src/app/app.component.ts',
+    './Component': './src/app/address-form/address-form.component.ts',
   },
 
   shared: {
