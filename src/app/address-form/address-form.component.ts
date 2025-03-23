@@ -105,3 +105,5 @@ export class AddressFormComponent {
     console.log('Thanks!', this.addressForm.value);
   }
 }
+
+export default AddressFormComponent;
